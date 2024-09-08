@@ -2,6 +2,9 @@
 fever_train_wr.jsonl
 fever_validation_wr.jsonl
 fever_test_wr.jsonl
+fever_train_syn.jsonl
+fever_validation_syn.jsonl
+fever_test_syn.jsonl
 
 # ignore huge models folder
 models/
