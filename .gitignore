@@ -3,7 +3,9 @@ fever_train_wr.jsonl
 fever_validation_wr.jsonl
 fever_test_wr.jsonl
 
-
+# ignore huge models folder
+models/
+results/
 
 
 
